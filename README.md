@@ -5,7 +5,7 @@ As we have a basic understanding of the different data structures in Pandas, let
 
 Here's a data set of 1,000 most popular movies on IMDB in the last 10 years . The data included  fields: Title, Genre, Description, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascrore
 
-It is an real dataset of <br>kaggle</br> community,  you can download it from [IMDB data from 2006 to 2016](https://www.kaggle.com/PromptCloudHQ/imdb-data)
+It is an real dataset of <b>kaggle</b> community,  you can download it from [IMDB data from 2006 to 2016](https://www.kaggle.com/PromptCloudHQ/imdb-data)
 
 Feel free to tinker with it and derive interesting insights.
 
