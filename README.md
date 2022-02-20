@@ -1,11 +1,11 @@
-# Data Analyst IMDB movies data from 2006 to 2016
+# Data Analyst IMDB data from 2006 to 2016
 
 # Introduction
 As we have a basic understanding of the different data structures in Pandas, let’s explore the fun and and get our hands dirty by performing practical data analysis on real data.
 
 Here's a data set of 1,000 most popular movies on IMDB in the last 10 years . The data included  fields: Title, Genre, Description, Director, Actors, Year, Runtime, Rating, Votes, Revenue, Metascrore
 
-It is an real dataset of kaggle community,  you can download it from [IMDB data from 2006 to 2016](https://www.kaggle.com/PromptCloudHQ/imdb-data)
+It is an real dataset of <br>kaggle</br> community,  you can download it from [IMDB data from 2006 to 2016](https://www.kaggle.com/PromptCloudHQ/imdb-data)
 
 Feel free to tinker with it and derive interesting insights.
 
