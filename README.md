@@ -1,4 +1,4 @@
-# Data Analyst IMDB data from 2006 to 2016
+# Data Analyst IMDB movies from 2006 to 2016
 
 # Introduction
 As we have a basic understanding of the different data structures in Pandas, let’s explore the fun and and get our hands dirty by performing practical data analysis on real data.
