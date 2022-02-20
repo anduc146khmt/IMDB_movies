@@ -19,7 +19,7 @@ This project could be used to revise your knowledge or warming up your data anal
 *   A little knowledge about Data Visualization using Seaborn
 
 # Link
-You should install Jupyter NoteBook or Google Colab to open my <b>.ipynb</b> file or you can read in <b>python</b> file.
+You should install Jupyter NoteBook or Google Colab to open my <b>notebook</b> [here](https://colab.research.google.com/github/anduc146khmt/DataAnalyst_IDBM_movies/blob/master/IDMB_movies.ipynb) or you can read in <b>python</b> file.
 
 # Contributor
 
