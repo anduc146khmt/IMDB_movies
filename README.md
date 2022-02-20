@@ -25,7 +25,7 @@ This notebook is my project practicing Pandas after finishing the Pandas course 
 Author : [anduc146khmt](https://github.com/anduc146khmt)
 
 # Link
-You should install Jupyter NoteBook or Google Colab to open my <b>.ipynb</b> file or you can read in python file.
+You should install Jupyter NoteBook or Google Colab to open my <b>.ipynb</b> file or you can read in <b>python</b> file.
 
 # Conclusion
 
