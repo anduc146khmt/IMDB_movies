@@ -18,14 +18,15 @@ This project could be used to revise your knowledge or warming up your data anal
 *   Having background about Python Programming, basic Data Analyst using Pandas
 *   A little knowledge about Data Visualization using Seaborn
 
+# Link
+You should install Jupyter NoteBook or Google Colab to open my <b>.ipynb</b> file or you can read in <b>python</b> file.
+
 # Contributor
 
 This notebook is my project practicing Pandas after finishing the Pandas course in kaggle community. I think it is a good course to begin learning Data Analyst, I recommend this course here [Pandas Course](https://www.kaggle.com/learn/pandas)
 
 Author : [anduc146khmt](https://github.com/anduc146khmt)
 
-# Link
-You should install Jupyter NoteBook or Google Colab to open my <b>.ipynb</b> file or you can read in <b>python</b> file.
 
 # Conclusion
 
